@@ -1,4 +1,4 @@
-package LRUCache;
+package org.udit.algos.LRUCache;
 
 public class Node {
     private String key;

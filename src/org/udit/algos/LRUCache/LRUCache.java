@@ -1,4 +1,4 @@
-package LRUCache;
+package org.udit.algos.LRUCache;
 
 import java.util.HashMap;
 import java.util.Map;
